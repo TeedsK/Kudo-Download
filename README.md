@@ -1,7 +1,7 @@
 # Kudo Download
 Source for latest downloads of Kudo
 
-> Latest Version: [Beta 0.0.9](https://github.com/TeedsK/Kudo-Download/releases/tag/0.0.9)<br/><br/>
+> Latest Version: [Beta 0.0.9](https://github.com/TeedsK/Kudo-Download/releases/tag/0.0.9)<br/>
 > Website: [Kudo Tools](https://www.kudotools.com)
 
 # About
