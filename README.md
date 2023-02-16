@@ -15,3 +15,4 @@ Kudo serves as an assistant program for any reseller trying to manage their busi
 > **Web Server Management** - easily save an open any online remote desktop servers<br/><br/>
 > **Account Generator** - quickly generate accounts on select websites<br/><br/>
 > **Data Transfer** - import and export data to work with other applications by converting the stored data<br/><br/>
+> **Auto Updating** - easily allow Kudo to detect and update itself from it's online database<br/><br/>
